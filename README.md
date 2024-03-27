@@ -1,2 +1,2 @@
-# CV_recitation
-These are practice files for computer vision. 
+# Computer Vision Spring 2024
+
